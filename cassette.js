@@ -25,7 +25,7 @@ const playlist = [
   "Daylight - Taylor Swift.mp3",
   "Ribs - Lorde.mp3",
   "There is a light that never goes out - The Smiths.mp3",
-  "Are you bored yet - Wallows, Clairo.mp3",
+  "Are You Bored Yet_ - Wallows - (feat. Clairo).mp3",
   "Bags - Clairo.mp3",
   "Lovers Rock - TV girl.mp3",
   "My kind of woman - Mac DeMarco.mp3",
