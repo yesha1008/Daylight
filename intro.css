@@ -9,8 +9,8 @@ html, body {
 
 /* 🌸 Font */
 @font-face {
-  font-family: 'ROMANTIC';
-  src: url('ROMANTIC.ttf') format('truetype');
+  font-family: 'NewRomantics.woff2';
+  src: url('NewRomantics.woff2') format('truetype');
 }
 
 /* 🌄 Background */
@@ -38,7 +38,7 @@ html, body {
 
 .header-text {
   font-size: 140px;
-  font-family: 'ROMANTIC', cursive;
+  font-family: 'NewRomantics.woff2', cursive;
   color: #f6e65d;
   text-shadow: 7px 7px 6px black;
   position: relative;
@@ -60,7 +60,7 @@ html, body {
   transition: background 0.3s ease, filter 0.3s ease;
   position: relative;
   top: 60px;
-  font-family: 'ROMANTIC', cursive;
+  font-family: 'NewRomantics.woff2', cursive;
   letter-spacing: 2px;
   opacity: 0;
 }
