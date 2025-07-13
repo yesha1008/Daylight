@@ -27,6 +27,8 @@ const playlist = [
   "There is a light that never goes out - The Smiths.mp3",
   "Are you bored yet - Wallows, Clairo.mp3",
   "Bags - Clairo.mp3",
+  "Are you bored yet - Wallows, Clairo.mp3",
+  "Bags - Clairo.mp3",
   "Lovers Rock - TV girl.mp3",
   "My kind of woman - Mac DeMarco.mp3",
   "Champagne Coast - Blood Orange.mp3",
