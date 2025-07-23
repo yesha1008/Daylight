@@ -112,7 +112,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { q: "You binge *The OC* for a week straight. You watch 5 episodes a day. How many episodes have you watched total?", a: ["35", "35 episodes", "35 eps"] },
     { q: "Guess the Miraculous character 😁🌹🪞", a: ["kagami"] },
     { q: "I'll be _____ for you ;)", a: ["smooth"] },
-    { q: "If g(x) = (x – 1) / (x + 2) and h(x) = (3x) / 2, what is (g ∘ h)(x)?", a: ["3x^2 – 3x / 2x + 4", "(3x^2 - 3x)/(2x + 4)"] }
+    { q: "24", a: ["24"] }
   ],
 
   // 🟣 THIRD SET: also mixed
