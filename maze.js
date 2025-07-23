@@ -104,7 +104,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // 🟢 SECOND SET: mix of short and multiple choice
   [
     { q: "Who was Jeff Buckley's biggest inspiration?", a: ["nusrat fateh ali khan"] },
-    { q: "Where was *Call Me By Your Name* set?", a: ["crema"], choices: ["Siena", "Parma", "your house", "Crema"], correct: "D" },
+    { q: "Where was *Call Me By Your Name* set?", a: ["crema"], choices: ["Siena", "Parma", "Crema", "your house"], correct: "C" },
     { q: "What was Seth Cohen's comic book called?", a: ["atomic county"] },
     { q: "You're the Ezra to my _______", a: ["gun"] },
     { q: "What's the stuffed toy (and color) sitting on top of my poster gift for you?", a: ["a green bunny", "green bunny", "bunny (green)"], choices: ["A green bunny", "A green fox", "A green beagle", "A green serval"], correct: "A" },
